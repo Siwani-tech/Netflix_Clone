@@ -1,3 +1,5 @@
+Check it out here Netflix_CLone : https://netflix-clone-8a435.web.app/
+
 
 Welcome to the Netflix Clone repository, where you'll find a modern web application built with React for the frontend and supported by a backend. This project aims to replicate the popular streaming platform's user interface and functionality, offering an immersive experience for users to browse, search, and watch their favorite movies and TV shows
 
